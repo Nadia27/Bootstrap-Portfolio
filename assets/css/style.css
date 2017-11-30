@@ -1,0 +1,39 @@
+body {
+	background: url("../images/new_year_background.png");
+}
+
+nav {
+	margin-bottom: 50px; 
+	background-color: #ffff99; 
+}
+
+nav h1 {
+	color: #808080;
+
+}
+
+.jumbotron {
+	background-image: url(../images/kite.jpg); 
+	color: white; 
+}
+
+.container{
+	background-color: white; 
+	border: 3px solid #ffff99;
+	margin-bottom: 30px;
+	padding: 50px; 
+}
+
+h2 {
+	margin-bottom: 20px; 
+	text-align: center;
+	color: #808080;  
+
+}
+
+
+
+.card {
+	margin-top: 40px; 
+	margin-right: 10px; 
+}
